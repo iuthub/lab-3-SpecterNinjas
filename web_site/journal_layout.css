@@ -1,0 +1,42 @@
+body{
+	cursor: pointer;
+	margin-left: 10%;
+	margin-right: 10%;
+	
+	background-image: url('https://designmodo.com/wp-content/uploads/2012/05/1118.jpg');
+}
+#yashil{
+	border: 10px solid white;
+	background-color: white;
+}
+.a{
+	display: inline-block;
+	float: right;
+	clear: right;
+}
+.left{
+	text-decoration: none;
+}
+
+
+div.red{
+	text-align: right;
+	border: 5px solid rgb(168,240,240);
+background-color: #A8F0F0;
+}
+div.red span h2{
+	border: 5px solid rgb(168,240,240);
+}
+div.s{
+	margin-bottom: 15px;
+
+}
+
+div.blue{
+	border: 4px solid #C2E9E9;
+	background-color: #E8FBFB;
+	float: right;
+}
+div.blue span{
+	border-bottom:  2px dashed  #009097;
+}
